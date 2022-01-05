@@ -1,19 +1,94 @@
 export const listaNombres = [
     {
-        nombre: "Sergio Corcuera"
+        nombre: "Albert Jhuset Quintanilla Peralta"
     },
     {
-        nombre: "Alexandra Galarza"
+        nombre: "Sara Salas Perez"
     },
     {
-        nombre: "Berta López"
+        nombre: "Jocelyn Vanessa Rincón Barceló"
     },
     {
-        nombre: "Joan Recordà"
+        nombre: "Julián Ochoa Barco"
     },
     {
-        nombre: "Gabriela Piñeiro"
-    }/*,
+        nombre: "Yuri Andrea Ramirez Reyes"
+    },
+    {
+        nombre: "Christian Alexander Lazo Uscategui"
+    },
+    {
+        nombre: "Ronald Esteban Rosero Montaña"
+    },
+    {
+        nombre: "Juan Manuel Yarce Campo"
+    },
+    {
+        nombre: "Cristian Montoya López"
+    },
+    {
+        nombre: "Christian Javier Ruiz Cortes"
+    },
+    {
+        nombre: "Carlos Eduardo Martinez Pedraza"
+    },
+    {
+        nombre: "Leidy Doraly Santander Chamorro"
+    },
+    {
+        nombre: "Laura Daniela Vargas Hidalgo"
+    },
+    {
+        nombre: "Emmanuel Estupiñan Quintero"
+    },
+    {
+        nombre: "Luis Miguel Cuello Mesa"
+    },
+    {
+        nombre: "Diana Carolina Gutierrez Loaiza"
+    },
+    {
+        nombre: "Dario Higuera Moreno"
+    },
+    {
+        nombre: "Emmanuel José Pereira Quijano"
+    },
+    {
+        nombre: "Daniela Puerta Castrillón"
+    },
+    {
+        nombre: "Dargy Julieth Mogollón Lobo"
+    },
+    {
+        nombre: "Diana Patricia Chavez Realpe"
+    },
+    {
+        nombre: "María José Jadnat Pérez Alba"
+    },
+    {
+        nombre: "Juan David Quimbayo Núñez"
+    },
+    {
+        nombre: "Leandro gutierrez Escarpeta"
+    },
+    {
+        nombre: "Karen Vanesa Rosales Beltran"
+    },
+    {
+        nombre: "Luis Felipe Cabal Holguin"
+    },
+    {
+        nombre: "Jimmy Murillo Bernal"
+    },
+    {
+        nombre: "Daniela Tovar Moreno"
+    },
+    {
+        nombre: "Jose Fernando Jimenez Ramirez"
+    },
+    {
+        nombre: "Diego Alberto Botello Tarazona"
+    },/*,
     {
         nombre: "Andrés Patiño"
     },
